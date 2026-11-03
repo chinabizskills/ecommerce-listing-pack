@@ -4,9 +4,7 @@ description: Full e-commerce listing package — keyword-optimized titles, struc
 version: 1.0.0
 author: RAY
 license: CC-BY-4.0
-tags: "[ecommerce, product-listing, copywriting, seo, conversion]"
-metadata:
-
+tags: [ecommerce, product-listing, copywriting, seo, conversion]
 pricing:
   free: Free — 3 product titles/month
   pro: $19/month — bulk 100-SKU + category keyword library
@@ -39,7 +37,6 @@ monetization:
   upgrade_path: Pro Monthly -> Pro Annual -> Enterprise
 
 ---
-
 # Ecommerce Listing Pack
 
 ## What problem it solves
