@@ -12,7 +12,6 @@
 | **Pro Monthly** | **$19/month — bulk 100-SKU + category keyword library** | Unlimited + full Pro pack + export + template library |
 | Pro Annual | $190/year | Same Pro benefits, annual discount |
 | Enterprise | $99/month (multi-store voice + competitor mapping) | Team unlimited + enterprise templates |
-| Pay per use | $12 one-time (single listing) | Zero-friction entry for low-frequency users |
 
 ## 2. Pricing skeleton
 
@@ -24,7 +23,7 @@ predictable revenue, heavy-user value captured.
 ```text
 Free tier (Free — 3 product titles/month)
   → quota exhausted -> paywall prompt
-  → 7-day free trial (no card required)
+  → subscribe on Agensi: https://www.agensi.io/skills/ecommerce-listing-pack
   → Pro Monthly $19/month — bulk 100-SKU + category keyword library
   → Pro Annual $190/year
   → Enterprise $99/month (multi-store voice + competitor mapping)
@@ -32,8 +31,6 @@ Free tier (Free — 3 product titles/month)
 
 ## 4. Success metrics (3 months)
 
-- Free → trial ≥ 15%
-- Trial → paid ≥ 25%
 - Monthly retention ≥ 60%
 - NPS ≥ 45
 
