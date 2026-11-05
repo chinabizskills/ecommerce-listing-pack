@@ -3,7 +3,7 @@
 > Full e-commerce listing package — keyword-optimized titles, structured selling points, layered product-page copy, FAQ and negative-review prevention. Produces upload-ready content for Shopify / Amazon / marketplace sellers.
 
 **Category:** ecommerce-automation  |  **License:** CC-BY-4.0  |  **Version:** 1.0.0
-**Price:** Free on GitHub & skills.sh (CC BY 4.0). Curated bundle on Gumroad: $19 (Pro $49).
+**Price:** Free on GitHub & skills.sh (CC BY 4.0). Pro & Enterprise on Agensi: $19/month · $190/year · $99/month.
 
 ## What it does
 
@@ -37,7 +37,19 @@ Or clone: `git clone https://github.com/chinabizskills/ecommerce-listing-pack.gi
 
 ## Pricing & license
 
-Licensed under **CC BY 4.0** — free to use, share, and adapt (attribution required). A curated, expanded bundle (with the Pro templates) is sold on Gumroad for $19 (Pro $49). The free GitHub/skills.sh version is the complete, working skill.
+Free on GitHub & skills.sh under **CC BY 4.0** — the complete core workflow, free to use, share and adapt (attribution required).
+Pro and Enterprise are subscriptions on Agensi:
+
+| Tier | Price | What you get |
+|---|---|---|
+| Free | $0 | 3 product titles/month |
+| Pro Monthly | $19/month | bulk 100-SKU + category keyword library |
+| Pro Annual | $190/year | Same Pro benefits, billed yearly |
+| Enterprise | $99/month | multi-store voice + competitor mapping |
+
+Subscribe: https://www.agensi.io/skills/ecommerce-listing-pack
+
+Licensed under **CC BY 4.0** — free to use, share, and adapt (attribution required).
 
 ## Tags
 
