@@ -18,7 +18,7 @@ Full e-commerce listing package — keyword-optimized titles, structured selling
 
 ## Pricing
 
-Free (CC BY 4.0) on GitHub & skills.sh. Curated bundle on Gumroad: $19 (Pro $49).
+Free (CC BY 4.0) on GitHub & skills.sh. Pro $19/month · Pro Annual $190/year · Enterprise $99/month on Agensi: https://www.agensi.io/skills/ecommerce-listing-pack
 
 ## Known Risks and Mitigations
 
